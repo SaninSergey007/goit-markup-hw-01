@@ -1,0 +1,12 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: #f5f7fa;
+	padding-top: 10px;
+	padding-bottom: 40px;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-family: Montserrat;
+}
